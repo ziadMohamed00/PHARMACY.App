@@ -1,8 +1,6 @@
 import './index.css';
 
-
-
-
+  
 function Navbar() {
   return (
     <div className="App">
