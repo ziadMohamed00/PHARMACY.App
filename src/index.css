@@ -1,0 +1,134 @@
+li a:hover {
+  color: #087990 !important;
+  
+}
+.navbar-nav .nav-link.active,
+.navbar-nav .show>.nav-link {
+  color: #087990 !important;
+}
+.carousel-caption h5 {
+  color: #087990 !important;
+  font-size: 40px !important;
+}
+.carousel-caption p {
+  color: #087990 !important;
+  font-size: 30px !important;
+  font-weight: bold;
+}
+.tips {
+  color: #087990 !important;
+      font-size: 40px !important;
+}
+@media (min-width: 320px) {
+  .carousel-item img {
+      height: 200px !important;
+  }
+  footer {
+      height: 580px !important;
+  }
+  .loginbtn {
+      width: 223px !important;
+  }
+  .btncbea {
+      width: 260px !important;
+  }
+}
+
+@media (min-width: 375px) {
+  .carousel-item img {
+      height: 200px !important;
+  }
+  footer {
+      height: 590px !important;
+  }
+  .loginbtn {
+      width: 280px !important;
+  }
+  .btncbea {
+      width: 320px !important;
+  }
+}
+
+@media (min-width: 425px) {
+  .carousel-item img {
+      height: 250px !important;
+  }
+  footer {
+      height: 580px !important;
+  }
+  .loginbtn {
+      width: 330px !important;
+  }
+  .btncbea {
+      width: 370px !important;
+  }
+}
+
+@media (min-width: 768px) {
+  .carousel-item img {
+      height: 450px !important;
+      }
+  footer {
+      height: 430px !important;
+  }
+  .btncbea {
+      width: 330px !important;
+  }
+}
+
+@media (min-width: 992px) {
+  .carousel-item img {
+      height: 527px !important;
+  }
+  footer {
+      height: 440px !important;
+  }
+  .btncbea {
+      width: 275px !important;
+  }
+}
+
+@media (min-width: 1200px) {
+  .carousel-item img {
+      height: 527px !important;
+  }
+  footer {
+      height: 300px !important;
+  }
+  .btncbea {
+      width: 275px !important;
+  }
+}
+@media (min-width: 1440px) {
+  .btncbea {
+      width: 300px !important;
+  }
+}
+
+
+@media (min-width: 2560px) {
+  footer {
+      height: 500px !important;
+      
+  }
+}
+.Ask {
+  color: #087990;
+}
+
+footer {
+  padding: 50px;
+  height: 260px;
+  background-color: #f8f9fa;
+}
+
+.li-foot a{
+color: dimgrey;  
+}
+.li-foot a:hover{
+color: #087990;  
+}
+input[type=number]::-webkit-inner-spin-button {
+   -webkit-appearance: none;
+}
+
